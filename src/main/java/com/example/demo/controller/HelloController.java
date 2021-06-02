@@ -13,6 +13,7 @@ public class HelloController {
         System.out.println("hello world hot 1");
         System.out.println("hello world master test");
         System.out.println("hello world hot test");
+        System.out.println("hello world push test");
         return "hello world";
     }
 }
