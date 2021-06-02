@@ -14,6 +14,7 @@ public class HelloController {
         System.out.println("hello world master test");
         System.out.println("hello world hot test");
         System.out.println("hello world push test");
+        System.out.println("hello world pull test");
         return "hello world";
     }
 }
