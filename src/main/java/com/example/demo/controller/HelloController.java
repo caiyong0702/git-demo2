@@ -12,6 +12,7 @@ public class HelloController {
         System.out.println("hello world !");
         System.out.println("hello world hot 1");
         System.out.println("hello world master test");
+        System.out.println("hello world hot test");
         return "hello world";
     }
 }
